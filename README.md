@@ -1,1 +1,1 @@
-The E-Commerce Web Applicating created with MERN Stack
+The E-Commerce Web Application is created with the MERN Stack.
